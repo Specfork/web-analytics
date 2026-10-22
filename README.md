@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/web-analytics"
 summary: Cookieless website analytics with a tracking script, hashed sessions, pageviews, custom events, referrers, UTM, dashboards, filters, realtime, public shares and retention.
 license: CC-BY-4.0
+tags: [saas, analytics]
 requires:
   "@specfork/auth": "^0.3.0"
   "@specfork/teams": "^0.3.0"
